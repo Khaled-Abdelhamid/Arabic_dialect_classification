@@ -3,6 +3,12 @@ Arabic_dialect_classification
 
 This project aims to classify 18 different dialects existing in the middle east region
 
+Google Slides
+==============================
+The design details and philosophy can be found in the [google slide](https://docs.google.com/presentation/d/1BB5NIP4HwpZOE5DnPCFa6V3GWzmvKDQ_EOTnS12u5GQ/edit?usp=sharing)
+
+[![Google Slides](https://raw.githubusercontent.com/ChristianFJung/simple-github-buttons/master/googleSlides.svg)](https://docs.google.com/presentation/d/1BB5NIP4HwpZOE5DnPCFa6V3GWzmvKDQ_EOTnS12u5GQ/edit?usp=sharing)
+
 Project Organization
 ------------
 
@@ -31,7 +37,6 @@ Project Organization
     │                         generated with `pip freeze > requirements.txt`
     └── 
 
-["https://img.icons8.com/fluency/48/000000/google-slides.png"/](https://docs.google.com/presentation/d/1BB5NIP4HwpZOE5DnPCFa6V3GWzmvKDQ_EOTnS12u5GQ/edit?usp=sharing)
 --------
 
 <p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
