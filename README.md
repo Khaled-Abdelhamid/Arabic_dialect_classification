@@ -31,7 +31,7 @@ Project Organization
     │                         generated with `pip freeze > requirements.txt`
     └── 
 
-
+["https://img.icons8.com/fluency/48/000000/google-slides.png"/](https://docs.google.com/presentation/d/1BB5NIP4HwpZOE5DnPCFa6V3GWzmvKDQ_EOTnS12u5GQ/edit?usp=sharing)
 --------
 
 <p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
